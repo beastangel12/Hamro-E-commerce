@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695423223895",
+    "project_id": "shopping-cart-8d233",
+    "storage_bucket": "shopping-cart-8d233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695423223895:android:98189906a163ff685bbb12",
+        "android_client_info": {
+          "package_name": "com.example.angel_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695423223895-itau0crpjgnlaji1t84mmakpdrjaq6os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgOrvseC5kX8zQY7XNf-22ZngPML7fBmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695423223895-itau0crpjgnlaji1t84mmakpdrjaq6os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
